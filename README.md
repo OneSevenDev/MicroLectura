@@ -1,6 +1,6 @@
 # MicroLectura - Primer fragmento
 
-## Que es la acción masiva imperfecta?
+## ¿Que es la acción masiva imperfecta?
 
 Muchas personas cuando escuchan el termino **acción masiva imperfecta**
 se me quedan viendo con ojos de guacala.
